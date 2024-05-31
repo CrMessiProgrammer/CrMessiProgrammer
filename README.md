@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Carlos Henrique Nunes 👋
-📝 Meu objetivo com este perfil é destacar de forma abrangente todas as experiências que acumulei na área, apresentando desde atividades e dinâmicas mais simples até projetos e conquistas de maior envergadura. Sinta-se bem-vindo a explorar meu percurso e contribuições!
+📝 Meu objetivo com este perfil é destacar de forma abrangente todas as experiências que acumulei na área, apresentando desde atividades e dinâmicas mais simples até projetos e conquistas de maior envergadura. Sinta-se bem-vindo a explorar meu percurso e contribuições! Abaixo dos tópicos, estarei disponibilizando links para minhas redes de contato, incluindo minha outra conta no GitHub, onde destaco apenas meus projetos mais significativos e bem-sucedidos.
 
 - 🔭 Hoje desenvolvendo em backend
 - 🌱 Estudando Java (avançado) com Spring Boot e outras ferramentas/frameworks
