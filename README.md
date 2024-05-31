@@ -1,9 +1,11 @@
 ### Olá! Eu sou o Carlos Henrique Nunes 👋
-📝 Meu objetivo com este perfil é destacar de forma abrangente todas as experiências que acumulei na área, apresentando desde atividades e dinâmicas mais simples até projetos e conquistas de maior envergadura. Sinta-se bem-vindo a explorar meu percurso e contribuições! Abaixo dos tópicos, estarei disponibilizando links para minhas redes de contato, incluindo minha outra conta no GitHub, onde destaco apenas meus projetos mais significativos e bem-sucedidos.
+📝 Meu objetivo com este perfil é destacar de forma abrangente todas as experiências que acumulei na área, apresentando desde atividades e dinâmicas mais simples até projetos e conquistas de maior envergadura. Sinta-se bem-vindo a explorar meu percurso e contribuições!
 
 - 🔭 Hoje desenvolvendo em backend
 - 🌱 Estudando Java (avançado) com Spring Boot e outras ferramentas/frameworks
 - 🚀 Metas para um futuro próximo incluem a realização de um curso para adquirir conhecimento em APIs REST/RESTful
+
+<p> Abaixo estarei disponibilizando links para minhas redes de contato, incluindo minha outra conta no GitHub, onde apresento apenas meus projetos mais significativos e bem-sucedidos. </p>
 
 <div>
   <a href="https://github.com/CarlosHNDev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
