@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Carlos Henrique Nunes 👋
 📝 Meu objetivo com este perfil é destacar de forma abrangente todas as experiências que acumulei na área, apresentando desde atividades e dinâmicas mais simples até projetos e conquistas de maior envergadura. Sinta-se bem-vindo a explorar meu percurso e contribuições!
 
-- 🔭 Hoje desenvolvendo em backend
-- 🌱 Estudando Java (avançado) com Spring Boot e outras ferramentas/frameworks
+- 🔭 Hoje desenvolvendo em Fullstack
+- 🌱 Estudando JavaScript/TypeScript com ReactJs, NodeJs, NestJs, entre outras ferramentas/frameworks
 - 🚀 Metas para um futuro próximo incluem a realização de um curso para adquirir conhecimento em APIs REST/RESTful
 
 <p> Abaixo estarei disponibilizando links para minhas redes de contato, incluindo minha outra conta no GitHub, onde apresento apenas meus projetos mais significativos e bem-sucedidos. </p>
@@ -18,9 +18,6 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=CrMessiProgrammer&layout=compact&langs_count=16&theme=dracula" />
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Carlos-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Carlos-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
-  <img align="center" alt="Carlos-XML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg">
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -29,5 +26,8 @@
   <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carlos-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Carlos-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Carlos-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
+  <img align="center" alt="Carlos-XML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg">
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
