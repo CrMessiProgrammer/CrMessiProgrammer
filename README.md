@@ -5,7 +5,7 @@
 - 🌱 Estudando JavaScript/TypeScript com Node.js, NestJS, ReactJS, entre outros frameworks/bibliotecas
 - 🚀 Metas para um futuro próximo incluem a realização de um curso para adquirir conhecimento em Angular, e aprimoramento em APIs REST/RESTful
 
-<p> Abaixo estarei disponibilizando links para minhas redes de contato. Segue: </p>
+<p> Segue abaixo minhas redes de contato: </p>
 
 <div>
   <a href="https://github.com/CarlosHNDev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
