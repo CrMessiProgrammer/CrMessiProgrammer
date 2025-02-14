@@ -25,13 +25,6 @@ Desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará pro
 </div>
 
 ---
-### 🚀 **Minhas Estatísticas**
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHNDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosHNDev&layout=compact&langs_count=16&theme=dracula" />
-</div>
-
----
 ### 🎯 **Minhas Conquistas & Projetos em Destaque**
 - 🔹 **Bacharel em Engenharia de Computação** 🎓 (Formado em Dezembro de 2023!)
 - 🔹 Criador do **AssistDay - Aplicativo Mobile** 🔒 (Sistema de Assistência Doméstica para Idosos e Deficientes Visuais)
