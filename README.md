@@ -33,17 +33,17 @@ Sou **Carlos Henrique Nunes**, desenvolvedor apaixonado por tecnologia e inovaç
 ### 🎯 **Minhas Conquistas & Projetos em Destaque**
 - 🔹 **Bacharel em Engenharia de Computação** 🎓 (Formado em Dezembro de 2023!)
 - 🔹 Criador do **AssistDay - Aplicativo Mobile** 🔒 (Sistema de Assistência Doméstica para Idosos e Deficientes Visuais)
-- 🔹 Desenvolvedor do **Blog Pessoal - Aplicação Web** 🛜 (CRUD completo, API REST (GET, POST, PUT, DELETE), integração com MySQL via TypeORM, autenticação com JWT e Bcrypt!)
+- 🔹 Desenvolvedor do **Blog Pessoal - Aplicação Web** 🛜 (CRUD Completo, API REST (GET, POST, PUT, DELETE), Integração com MySQL via TypeORM, Autenticação com JWT e Bcrypt!)
 - 🔹 **Bootcamp Full-stack JavaScript** 🌐 (Completando uma imersão de 4 meses!)
-- 🔹 Especialista em ajudar a transformar ideias em soluções tecnológicas eficientes 📜
+- 🔹 Especialista em ajudar a transformar ideias em soluções tecnológicas eficientes 📜 (Buscando com Frequência!)
 
 ---
 ### 🌐 **Conecte-se Comigo** 📡
 📩 **E-mail:** carloshnunes383@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-nunes-234005190)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosHNDev)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://github.com/CarlosHNDev)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CrMessiProgrammer)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://crmessiprogrammer.github.io/portfolio_tjs06/)
 
 ---
 
