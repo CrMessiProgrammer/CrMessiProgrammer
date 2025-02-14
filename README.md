@@ -1,4 +1,4 @@
-# 🌟 Olá! Eu sou o Carlos Henrique Nunes 👨‍💻
+### 🌟 Olá! Eu sou o Carlos Henrique Nunes 👨‍💻
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -41,7 +41,7 @@ Sou **Carlos Henrique Nunes**, desenvolvedor apaixonado por tecnologia e inovaç
 ---
 ### 🎨 **Tecnologias Que Eu Domino**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,html,css,tailwind,mysql,java,python,git,github,swagger,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,html,css,tailwind,mysql,java,python,firebase,git,github,npm,yarn,swagger,figma" />
 </div>
 
 🔥 Se gostou do meu trabalho, não esqueça de me seguir e deixar uma ⭐ nos meus projetos!
