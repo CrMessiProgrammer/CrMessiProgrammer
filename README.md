@@ -26,10 +26,15 @@ Desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará pro
 
 ---
 ### 🚀 **Minhas Estatísticas**
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosHNDev&theme=radical"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosHNDev&theme=radical"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosHNDev&theme=radical"/>
-<img src="https://github-contributor-stats.vercel.app/api?username=CarlosHNDev&theme=radical"/>
+name: Featured star list
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.starlists.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_starlists: yes
+  plugin_starlists_limit_repositories: 2
+  plugin_starlists_only: TC39
 
 ---
 ### 🎯 **Minhas Conquistas & Projetos em Destaque**
