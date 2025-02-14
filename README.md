@@ -1,10 +1,8 @@
-## 🌌 Bem-vindo ao Universo de Código do Carlos Henrique! 🚀
+# 🌟 Olá! Eu sou o Carlos Henrique Nunes 👨‍💻
 
-<img src="![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="300"/>
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### 🔥 Transformando Café e Código em Soluções Inovadoras! ☕💻
-
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
 Sou **Carlos Henrique Nunes**, desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará projetos que combinam criatividade e performance!
 
