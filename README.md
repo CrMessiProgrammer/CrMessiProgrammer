@@ -1,5 +1,6 @@
 <div align="center">
   <h3>🌟 Olá! Eu sou o Carlos Henrique Nunes 👨‍💻</h3>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
 </div>
 
