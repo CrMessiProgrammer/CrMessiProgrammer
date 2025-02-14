@@ -1,6 +1,8 @@
-### 🌟 Olá! Eu sou o Carlos Henrique Nunes 👨‍💻
+<h3 align="left">🌟 Olá! Eu sou o Carlos Henrique Nunes 👨‍💻</h3>
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+</p>
 
 ### 🔥 Transformando Café e Código em Soluções Inovadoras! ☕💻
 
