@@ -6,7 +6,7 @@
 
 ### 🔥 Transformando Café e Código em Soluções Inovadoras! ☕💻
 
-Sou **Carlos Henrique Nunes**, desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará projetos que combinam criatividade e performance!
+Desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará projetos que combinam criatividade e performance!
 
 🛠 **Stack Tecnológica:**
 ```yaml
