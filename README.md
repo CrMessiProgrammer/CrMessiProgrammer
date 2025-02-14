@@ -1,83 +1,97 @@
-# 👋 Olá, eu sou o Carlos Henrique Nunes! 👨‍💻
+# 👨‍💻 Carlos Henrique Nunes
 
-> **"Transformando desafios em código, com dedicação e inovação."**
+## Bem-vindo ao meu perfil! 🌟
 
----
+⚡ **Fullstack Developer | JavaScript/TypeScript Enthusiast | Java | Python | Machine Learning**  
+🚀 **Apaixonado por tecnologia e desafios!**
 
-💼 **Atualmente**: Desenvolvedor Fullstack | **Explorando** JavaScript, TypeScript, Node.js, React, NestJS e muito mais!
-
-🚀 **Objetivo**: Aperfeiçoar as habilidades e contribuir com soluções inovadoras para o mercado, além de ajudar outras pessoas a evoluírem no mundo da tecnologia.
-
----
-
-### 🔧 **Ferramentas & Tecnologias**
-
-💻 **Tecnologias que mais amo**:
-- 🌐 **Front-End**: ReactJS, HTML5, CSS3
-- 🔙 **Back-End**: Node.js, NestJS, Java, MySQL
-- 🌐 **API**: REST, RESTful, GraphQL
-- 🔒 **Outros**: Firebase, TypeScript, Python, XML
-
-### 📊 **Meus números** 💥
-Aqui está uma amostra do meu trabalho e conquistas:
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=CrMessiProgrammer&show_icons=true&theme=radical&count_private=true)
+**🔭 Atualmente:** Desenvolvendo aplicações **Fullstack** com **Node.js**, **React.js**, **Nest.js** e **JavaScript/TypeScript**.  
+**🌱** Continuo meu aprendizado em **APIs REST**, **Machine Learning** e **Cloud Computing**.  
+**🎯** Minhas metas incluem o aprofundamento em **Angular**, **Docker**, e **CI/CD**.
 
 ---
 
-### 📈 **Minhas linguagens mais usadas**:
+### 🚀 Minhas Habilidades Técnicas
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CrMessiProgrammer&layout=compact&langs_count=16&theme=radical)
+🖥️ **Front-end**:
+- ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
----
+🔧 **Back-end**:
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### 💬 **Interações & Engajamento**
-Adoro interagir com outros desenvolvedores, compartilhar conhecimentos e aprender em conjunto. Não hesite em me chamar para um bate-papo!
-
-💬 **Entre em contato comigo:**
-- [💻 GitHub](https://github.com/CarlosHNDev)
-- [📧 E-mail](mailto:carloshnunes383@gmail.com)
-- [🔗 LinkedIn](https://www.linkedin.com/in/carlos-henrique-nunes-234005190)
-
----
-
-### ✨ **Meus Projetos & Contribuições**
-
-- 💼 **Banco InovTech**: Uma aplicação para simulação de banco utilizando TypeScript e OOP.
-- 🚀 **Sócio Torcedor**: Aplicação de CRUD e gerenciamento de benefícios usando Node.js.
-- 📱 **Pokémon Go Database**: Um banco de dados dinâmico baseado no universo de Pokémon Go. ⚡
+💻 **Outras habilidades**:
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+- ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
 
 ---
 
-### 🚀 **Futuro Próximo** 🎯
+### 📊 Estatísticas
 
-- ✨ **Aprimoramento** em Angular, APIs RESTful e soluções baseadas em Cloud.
-- 📚 **Certificação** em tecnologias emergentes como GraphQL, Docker e Kubernetes.
-- 🏆 **Objetivo de carreira**: Alcançar uma posição gerencial para treinar e orientar equipes, focando em resultados e soluções.
-
----
-
-### 💫 **Mais algumas coisas sobre mim:**
-
-📅 **Meta de Curto Prazo**: Entrar em um curso de graduação em TI e aprimorar minha fluência em inglês até 2026.
-
-📍 **Onde moro**: São Paulo, SP - O coração pulsante do Brasil em inovação e tecnologia.
-
-💬 **O que me motiva**: A paixão por transformar ideias em soluções tangíveis e impactantes para o mundo.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosHNDev&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHNDev&layout=compact&theme=radical)
 
 ---
 
-### 🌍 **Vamos conversar?**
+### 🏆 Projetos de Destaque
 
-🔌 **Adoraria saber mais sobre suas ideias e projetos! Vamos trocar experiências?**
+**Banco InovTech**  
+🔗 [Repositório no GitHub](https://github.com/CarlosHNDev/BancoInovTech)  
+- **Descrição:** Aplicação de gerenciamento de contas bancárias com **TypeScript**, **POO** e **CRUD**.  
+- **Tecnologias:** TypeScript, Node.js, MySQL, GitHub Actions.
+
+**Sócio Torcedor API**  
+🔗 [Repositório no GitHub](https://github.com/CarlosHNDev/SocioTorcedorAPI)  
+- **Descrição:** API para gestão de sócios torcedores com **Node.js**, **Express** e **MySQL**.  
+- **Tecnologias:** Node.js, Express, MySQL, Docker.
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" />
+### 🔥 Stats Incríveis
+
+![My Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=CarlosHNDev&theme=dracula&hide_border=true)
+
+---
+
+### 🤖 Estou sempre aprendendo!
+
+Atualmente estou me aprofundando em **Machine Learning**, **APIs RESTful** e **Cloud Computing**.  
+Se você estiver interessado em compartilhar ideias sobre **tecnologias emergentes** ou **desafios técnicos**, vamos conversar! 🤝
+
+---
+
+### 📧 Redes de Contato
+
+<div>
+  <a href="mailto:carloshnunes383@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carlos-henrique-nunes-234005190" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/CarlosHNDev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
 ---
+
+### 🏆 Sobre Mim
+
+🎓 **Formação:** Engenharia da Computação (UNIP)  
+🧠 **Objetivo:** Ser um **Supervisor de Desenvolvimento Mobile** nos próximos 5 anos.  
+💼 **Experiência:** Fullstack Developer com foco em **JavaScript/TypeScript** e **Java**.  
+🌱 **Metas:** Melhorar habilidades em **Machine Learning** e **Arquitetura de Software**.
+
+---
+
+### 🖼️ GIFs e Emojis Para Animar o Perfil
+
+![Coder GIF](https://media.giphy.com/media/6dPoPAwzpMmaA/giphy.gif)
+
+**Se você está impressionado, dê uma estrela 🌟!**
+
+---
+
+🔭 **Vamos criar algo incrível juntos!**
