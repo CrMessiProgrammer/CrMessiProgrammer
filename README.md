@@ -26,10 +26,10 @@ Desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará pro
 
 ---
 ### 🚀 **Minhas Estatísticas**
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHNDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHNDev&layout=compact&langs_count=8&theme=radical&exclude_repo=nome-do-repo-inútil"/>
-</div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosHNDev&theme=radical"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosHNDev&theme=radical"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosHNDev&theme=radical"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=CarlosHNDev&theme=radical"/>
 
 ---
 ### 🎯 **Minhas Conquistas & Projetos em Destaque**
