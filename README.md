@@ -21,8 +21,8 @@ Sou **Carlos Henrique Nunes**, desenvolvedor apaixonado por tecnologia e inovaç
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,html,css,tailwind,mysql,npm,yarn,java,firebase,git,figma" />
 </div>
----
 
+---
 ### 🚀 **Minhas Estatísticas**
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHNDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
