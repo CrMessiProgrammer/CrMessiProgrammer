@@ -6,7 +6,7 @@
 
 <h3 align="center">☕ Transformando Café e Código em Soluções Inovadoras! 💻</h3>
 
-Desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará projetos que combinam criatividade e performance!
+<p align="center"> Desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará projetos que combinam criatividade e performance! </p>
 
 ### 🛠 **Stack Tecnológica:**
 ```yaml
