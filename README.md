@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </div>
 
-<h3 align="center">🔥 Transformando Café e Código em Soluções Inovadoras! ☕💻</h3>
+<h3 align="center">☕ Transformando Café e Código em Soluções Inovadoras! 💻</h3>
 
 Desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará projetos que combinam criatividade e performance!
 
@@ -29,7 +29,7 @@ Desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará pro
 - 🔹 **Bacharel em Engenharia de Computação** 🎓 (Formado em Dezembro de 2023!)
 - 🔹 Criador do **AssistDay - Aplicativo Mobile** 🔒 (Sistema de Assistência Doméstica para Idosos e Deficientes Visuais)
 - 🔹 Desenvolvedor do **Blog Pessoal - Aplicação Web** 🛜 (CRUD Completo, API REST (GET, POST, PUT, DELETE), Integração com MySQL via TypeORM, Autenticação com JWT e Bcrypt!)
-- 🔹 **Bootcamp Full-stack JavaScript** 🌐 (Completando uma imersão de 4 meses!)
+- 🔹 **Bootcamp Full-stack JavaScript** 🚀 (Completando uma imersão de 4 meses!)
 - 🔹 Especialista em ajudar a transformar ideias em soluções tecnológicas eficientes 📜 (Buscando com Frequência!)
 
 ---
