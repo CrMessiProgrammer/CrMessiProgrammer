@@ -8,8 +8,8 @@ Sou **Carlos Henrique Nunes**, desenvolvedor apaixonado por tecnologia e inovaç
 
 🛠 **Stack Tecnológica:**
 ```yaml
-  Backend: [Node.js, Nest.js, Java, Python, C]
-  Frontend: [React.js, HTML5, CSS, Tailwind CSS]
+  Backend: [Node.js, Nest.js, TypeScript, Java, Python, C]
+  Frontend: [React.js, HTML5, CSS, Tailwind CSS, TypeScript]
   Banco de Dados: [MySQL, Firebase]
   DevOps: [GitHub Actions, Deploy (Render, GitHub Pages)]
   APIs & Protocolos: [REST, Swagger, HTTP/HTTPS]
@@ -17,6 +17,12 @@ Sou **Carlos Henrique Nunes**, desenvolvedor apaixonado por tecnologia e inovaç
   Machine Learning: [Python]
 ```
 ---
+### 🎨 **Tecnologias Que Eu Domino**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,html,css,tailwind,mysql,npm,yarn,java,firebase,git,figma" />
+</div>
+---
+
 ### 🚀 **Minhas Estatísticas**
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHNDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
@@ -25,10 +31,11 @@ Sou **Carlos Henrique Nunes**, desenvolvedor apaixonado por tecnologia e inovaç
 
 ---
 ### 🎯 **Minhas Conquistas & Projetos em Destaque**
-- 🔹 Criador do **Banco InovTech** 🏦 (Sistema de gerenciamento de contas bancárias)
-- 🔹 Desenvolvedor do **Sistema de Sócio Torcedor** ⚽ (CRUD com planos exclusivos e benefícios!)
-- 🔹 **Bootcamp Full-stack JavaScript** 🚀 (Completando uma imersão de 4 meses!)
-- 🔹 Especialista em **APIs REST** com documentação Swagger 📜
+- 🔹 **Bacharel em Engenharia de Computação** 🎓 (Formado em Dezembro de 2023!)
+- 🔹 Criador do **AssistDay - Aplicativo Mobile** 🔒 (Sistema de Assistência Doméstica para Idosos e Deficientes Visuais)
+- 🔹 Desenvolvedor do **Blog Pessoal - Aplicação Web** 🛜 (CRUD completo, API REST (GET, POST, PUT, DELETE), integração com MySQL via TypeORM, autenticação com JWT e Bcrypt!)
+- 🔹 **Bootcamp Full-stack JavaScript** 🌐 (Completando uma imersão de 4 meses!)
+- 🔹 Especialista em ajudar a transformar ideias em soluções tecnológicas eficientes 📜
 
 ---
 ### 🌐 **Conecte-se Comigo** 📡
@@ -39,9 +46,5 @@ Sou **Carlos Henrique Nunes**, desenvolvedor apaixonado por tecnologia e inovaç
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://github.com/CarlosHNDev)
 
 ---
-### 🎨 **Tecnologias Que Eu Domino**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,html,css,tailwind,mysql,java,python,firebase,git,github,npm,yarn,swagger,figma" />
-</div>
 
 🔥 Se gostou do meu trabalho, não esqueça de me seguir e deixar uma ⭐ nos meus projetos!
