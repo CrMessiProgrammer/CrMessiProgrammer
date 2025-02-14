@@ -26,7 +26,16 @@ Desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará pro
 
 ---
 ### 🚀 **Minhas Estatísticas**
-<div align="center"> <!-- Card de Estatísticas do GitHub --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHNDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <!-- Linguagens mais usadas --> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHNDev&layout=compact&langs_count=8&theme=radical"/> <!-- Streak Stats --> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosHNDev&theme=radical"/> <!-- Troféus do GitHub --> <img src="https://github-profile-trophy.vercel.app/?username=CarlosHNDev&theme=dracula&no-bg=true&no-frame=true&column=6" /> </div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHNDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=CarlosHNDev&theme=radical&hide_border=false&border_radius=5"/>
+</div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHNDev&layout=compact&langs_count=8&theme=radical"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosHNDev&theme=dracula&hide_border=true"/>
+</div>
 
 ---
 ### 🎯 **Minhas Conquistas & Projetos em Destaque**
