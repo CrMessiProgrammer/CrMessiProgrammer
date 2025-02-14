@@ -8,7 +8,7 @@
 
 Desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará projetos que combinam criatividade e performance!
 
-🛠 **Stack Tecnológica:**
+### 🛠 **Stack Tecnológica:**
 ```yaml
   Backend: [Node.js, Nest.js, TypeScript, Java, Python, C]
   Frontend: [React.js, HTML5, CSS, Tailwind CSS, TypeScript]
