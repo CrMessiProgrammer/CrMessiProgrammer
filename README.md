@@ -1,6 +1,6 @@
 ## 🌌 Bem-vindo ao Universo de Código do Carlos Henrique! 🚀
 
-![Banner](https://media.giphy.com/media/xTiTnz3bNdEf7dzUQ4/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### 🔥 Transformando Café e Código em Soluções Inovadoras! ☕💻
 
@@ -45,17 +45,5 @@ Sou **Carlos Henrique Nunes**, desenvolvedor apaixonado por tecnologia e inovaç
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,html,css,tailwind,mysql,java,python,git,github,swagger,figma" />
 </div>
-
----
-### 🎮 **Fun Fact:**
-```
-while(true) {
-    code();
-    coffee();
-    repeat();
-}
-```
-
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 🔥 Se gostou do meu trabalho, não esqueça de me seguir e deixar uma ⭐ nos meus projetos!
