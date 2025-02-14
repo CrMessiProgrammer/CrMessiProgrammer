@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </div>
 
-### 🔥 Transformando Café e Código em Soluções Inovadoras! ☕💻
+<h3 align="center">🔥 Transformando Café e Código em Soluções Inovadoras! ☕💻</h3>
 
 Desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará projetos que combinam criatividade e performance!
 
