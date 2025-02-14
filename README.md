@@ -26,9 +26,10 @@ Desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará pro
 
 ---
 ### 🚀 **Minhas Estatísticas**
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=CarlosHNDev&theme=radical&hide_border=false)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHNDev&langs_count=8&layout=compact&theme=radical)  
-![Total de Commits](https://github-readme-stats.vercel.app/api?username=CarlosHNDev&show_icons=true&theme=radical)  
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHNDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosHNDev&layout=compact&langs_count=16&theme=dracula" />
+</div>
 
 ---
 ### 🎯 **Minhas Conquistas & Projetos em Destaque**
