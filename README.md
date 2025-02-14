@@ -1,6 +1,6 @@
 ## 🌌 Bem-vindo ao Universo de Código do Carlos Henrique! 🚀
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<img src="![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="300"/>
 
 ### 🔥 Transformando Café e Código em Soluções Inovadoras! ☕💻
 
