@@ -42,4 +42,4 @@
 
 ---
 
-🔥 Se gostou do meu trabalho, não esqueça de me seguir e deixar uma ⭐ nos meus projetos!
+🔥 Se gostou do meu trabalho, não esqueça de me seguir e deixar uma ⭐ nos meus projetos! Vamos criar conexões! ☺️🫱🏽‍🫲🏾☺️
