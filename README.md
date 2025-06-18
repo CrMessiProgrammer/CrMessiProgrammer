@@ -14,7 +14,7 @@
   Frontend: [React.js, HTML5, CSS, Tailwind CSS, TypeScript]
   Banco de Dados: [MySQL, PostgreSQL, SQLite, MongoDB, Firebase]
   ORMs / ODMs: [TypeORM, Mongoose]
-  DevOps: [GitHub Actions, Deploy (Netlify, Vercel, Render, GitHub Pages)]
+  DevOps: [GitHub Actions, Azure DevOps, Deploy (Netlify, Vercel, Render, GitHub Pages)]
   APIs & Protocolos: [REST, Swagger, HTTP/HTTPS]
   Autenticação & Segurança: [JWT, Passport, Bcrypt]
   Testes: [Jest]
@@ -24,12 +24,13 @@
 ---
 ### 🎨 **Tecnologias Que Eu Domino**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,html,css,tailwind,mysql,npm,yarn,java,firebase,git,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,html,css,tailwind,mysql,mongodb,npm,yarn,firebase,git,figma" />
 </div>
 
 ---
 ### 🎯 **Minhas Conquistas & Projetos em Destaque**
 - 🔹 **Bacharel em Engenharia de Computação** 🎓 (Formado em Dezembro de 2023!)
+- 🔹 **Desenvolvedor Back-End Voluntário** 💼 (NestJS no desafio técnico e Node.js com MongoDB + Mongoose e Azure DevOps no projeto atual)
 - 🔹 Criador do **AssistDay - Aplicativo Mobile** 🔒 (Sistema de Assistência Doméstica para Idosos e Deficientes Visuais)
 - 🔹 Desenvolvedor do **Blog Pessoal - Aplicação Web** 🛜 (CRUD Completo, API REST (GET, POST, PUT, DELETE), Integração com MySQL via TypeORM, Autenticação com JWT e Bcrypt!)
 - 🔹 **Bootcamp Full-stack JavaScript** 🚀 (Completando uma imersão de 4 meses!)
@@ -45,4 +46,4 @@
 
 ---
 
-🔥 Se gostou do meu trabalho, não esqueça de me seguir e deixar uma ⭐ nos meus projetos! Vamos criar conexões! ☺️🫱🏽‍🫲🏾☺️
+🔥 Se gostou do meu trabalho, não esqueça de me seguir e deixar uma ⭐ nos meus projetos! Vamos criar conexões! 🫡
