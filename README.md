@@ -10,12 +10,15 @@
 
 ### 🛠 **Stack Tecnológica:**
 ```yaml
-  Backend: [Node.js, Nest.js, TypeScript, Java, Python, C]
+  Backend: [Node.js, NestJS, TypeScript, JavaScript, Java]
   Frontend: [React.js, HTML5, CSS, Tailwind CSS, TypeScript]
-  Banco de Dados: [MySQL, Firebase]
-  DevOps: [GitHub Actions, Deploy (Render, GitHub Pages)]
+  Banco de Dados: [MySQL, PostgreSQL, SQLite, MongoDB, Firebase]
+  ORMs / ODMs: [TypeORM, Mongoose]
+  DevOps: [GitHub Actions, Deploy (Netlify, Vercel, Render, GitHub Pages)]
   APIs & Protocolos: [REST, Swagger, HTTP/HTTPS]
-  Ferramentas: [Git/GitHub, Insomnia, Xampp, PhpMyAdmin, SCRUM, Figma]
+  Autenticação & Segurança: [JWT, Passport, Bcrypt]
+  Testes: [Jest]
+  Ferramentas: [Git/GitHub, Insomnia, Postman, XAMPP, PhpMyAdmin, Figma, SCRUM]
   Machine Learning: [Python]
 ```
 ---
