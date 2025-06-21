@@ -30,8 +30,8 @@
 ---
 ### 🎯 **Minhas Conquistas & Projetos em Destaque**
 - 🔹 **Bacharel em Engenharia de Computação** 🎓 (Formado em Dezembro de 2023!)
-- 🔹 **Desenvolvedor Back-End Voluntário** 💼 (De 05/06/2025 até o presente momento! NestJS no desafio técnico e Node.js com MongoDB + Mongoose e Azure DevOps no projeto atual)
-- 🔹 **Bootcamp Full-stack JavaScript** 🚀 (Formado em Março de 2025! - Uma imersão de 4 meses!)
+- 🔹 **Desenvolvedor Back-End Voluntário** 💼 (De 05/06/2025 até o presente momento! - Utilizando NestJS no desafio técnico e Node.js com MongoDB + Mongoose e Azure DevOps no projeto atual)
+- 🔹 **Bootcamp Full-stack JavaScript** 🚀 (Formado em Março de 2025! - Uma imersão de 4 meses)
 - 🔹 Criador do **AssistDay - Aplicativo Mobile** 🔒 (Sistema de Assistência Doméstica para Idosos e Deficientes Visuais)
 - 🔹 Desenvolvedor do **Blog Pessoal - Aplicação Web** 🛜 (CRUD Completo, API REST (GET, POST, PUT, DELETE), Integração com MySQL via TypeORM, Autenticação com JWT e Bcrypt!)
 - 🔹 Especialista em ajudar a transformar ideias em soluções tecnológicas eficientes 📜 (Buscando com Frequência!)
